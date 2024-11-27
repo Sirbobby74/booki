@@ -1,0 +1,3953 @@
+/* Desktop */
+
+position: relative;
+width: 1440px;
+height: 1889.02px;
+
+
+
+/* Desktop */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+height: 1831.02px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Header */
+
+width: 1440px;
+height: 79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 50px;
+gap: 68px;
+
+position: absolute;
+width: 385px;
+height: 35px;
+right: 0px;
+top: 0px;
+
+
+
+/* Buttons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: flex-end;
+padding: 0px;
+gap: 68px;
+
+width: 285px;
+height: 35px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Btn Hébergement */
+
+width: 123px;
+height: 35px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Hébergements */
+
+position: absolute;
+width: 123px;
+height: 19px;
+left: 0px;
+top: 16px;
+
+/* Nav/Standard */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+text-align: center;
+
+/* Blue */
+color: #0065FC;
+
+
+
+/* Bg bar */
+
+position: absolute;
+width: 113px;
+height: 2px;
+left: 5px;
+top: 0px;
+
+/* Transparent */
+
+
+/* Blue bar */
+
+position: absolute;
+width: 113px;
+height: 2px;
+left: 5px;
+top: 0px;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Btn Activités */
+
+width: 94px;
+height: 35px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Activités */
+
+position: absolute;
+width: 94px;
+height: 19px;
+left: 191px;
+top: 16px;
+
+/* Nav/Standard */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 63px;
+height: 2px;
+left: 207px;
+top: 0px;
+
+/* Transparent */
+
+
+/* Rectangle 25 */
+
+position: absolute;
+visibility: hidden;
+width: 63px;
+height: 2px;
+left: 207px;
+top: 0px;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Logo/Reservia */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 30px 50px;
+gap: 10px;
+
+position: absolute;
+width: 161.09px;
+height: 79px;
+left: 0px;
+top: 0px;
+
+
+
+/* Logo */
+
+width: 61.09px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Booki */
+
+position: absolute;
+width: 61.09px;
+height: 19px;
+left: 50px;
+top: 30px;
+
+background: #0065FC;
+
+
+/* Group 12 */
+
+position: absolute;
+width: 2.9px;
+height: 6.11px;
+left: 85.54px;
+top: 38.56px;
+
+
+
+/* Ellipse 14 */
+
+position: absolute;
+width: 2.9px;
+height: 2.9px;
+left: 85.54px;
+top: 38.56px;
+
+background: #0065FC;
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 2.9px;
+height: 5.15px;
+left: 85.54px;
+top: 39.53px;
+
+background: #0065FC;
+
+
+/* Body */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 50px;
+gap: 35px;
+
+width: 1440px;
+height: 1722.02px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Info group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 35px;
+isolation: isolate;
+
+width: 1340px;
+height: 281px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Headline */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 1340px;
+height: 53px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Trouvez votre hébergement pour des vacances de rêve */
+
+width: 1340px;
+height: 26px;
+
+/* Title/Section */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* En plein centre-ville ou en pleine nature */
+
+width: 1340px;
+height: 19px;
+
+/* Footer/Link */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Search-bar */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 377px;
+height: 49px;
+
+/* White */
+background: #FFFFFF;
+/* Grey */
+border: 1px solid #F2F2F2;
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Group 15 */
+
+width: 50px;
+height: 49px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 50px;
+height: 49px;
+left: 0px;
+top: 0px;
+
+/* Grey */
+background: #F2F2F2;
+/* Grey */
+border: 1px solid #F2F2F2;
+border-radius: 15px 0px 0px 15px;
+
+
+/* Vector */
+
+position: absolute;
+width: 14px;
+height: 18px;
+left: 18px;
+top: 15px;
+
+background: #000000;
+
+
+/* Marseille, France */
+
+width: 147px;
+height: 21px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+/* Black */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button/Search/Desktop */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 15px 16px;
+gap: 10px;
+
+width: 93px;
+height: 49px;
+
+/* Blue */
+background: #0065FC;
+/* Blue */
+border: 1px solid #0065FC;
+border-radius: 0px 15px 15px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+display: none;
+width: 17px;
+height: 17px;
+
+/* White */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rechercher */
+
+width: 61px;
+height: 21px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* FilterBar */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 15px;
+
+width: 770px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Filters */
+
+width: 54px;
+height: 21px;
+
+/* Title/Filter */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Filter */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px 19px;
+gap: 10px;
+
+width: 131px;
+height: 50px;
+
+/* Grey/Tint2 */
+border: 2px solid #D9D9D9;
+border-radius: 25px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 22px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 13.04%;
+bottom: 13.04%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Économique */
+
+width: 61px;
+height: 20px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+
+/* Black */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Filter */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px 19px;
+gap: 10px;
+
+width: 197px;
+height: 50px;
+
+/* Grey/Tint2 */
+border: 2px solid #D9D9D9;
+border-radius: 25px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 22px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.44px;
+height: 22px;
+left: calc(50% - 13.44px/2 - 0.28px);
+top: calc(50% - 22px/2);
+
+/* Blue */
+background: #0065FC;
+
+
+/* Économique */
+
+width: 127px;
+height: 20px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+
+/* Black */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Filter */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px 19px;
+gap: 10px;
+
+width: 148px;
+height: 50px;
+
+/* Grey/Tint2 */
+border: 2px solid #D9D9D9;
+border-radius: 25px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 22px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 22px;
+height: 18.33px;
+left: calc(50% - 22px/2);
+top: calc(50% - 18.33px/2 + 0.17px);
+
+background: #0065FC;
+
+
+/* Économique */
+
+width: 78px;
+height: 20px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+
+/* Black */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Filter */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px 19px;
+gap: 10px;
+
+width: 180px;
+height: 50px;
+
+/* Blue/Light */
+background: #DEEBFF;
+/* Grey/Tint2 */
+border: 2px solid #D9D9D9;
+border-radius: 25px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 22px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 18px;
+height: 20.08px;
+left: calc(50% - 18px/2 + 0.5px);
+top: calc(50% - 20.08px/2 + 0.04px);
+
+/* Blue */
+background: #0065FC;
+
+
+/* Économique */
+
+width: 110px;
+height: 20px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+
+/* Black */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Infobar */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 1340px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Icon */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 11 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* Grey/Tint2 */
+border: 1px solid #D9D9D9;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.75%;
+right: 98.96%;
+top: 29.17%;
+bottom: 29.17%;
+
+background: #0065FC;
+
+
+/* Plus de 500 logements sont disponibles dans cette ville */
+
+width: 1306px;
+height: 19px;
+
+/* Information */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Group */
+
+position: absolute;
+width: 26.9px;
+height: 27px;
+left: 745px;
+top: 208px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 55.6%;
+right: 42.4%;
+top: 74.02%;
+bottom: 16.37%;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+
+
+/* Section group */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 40px;
+
+width: 1340px;
+height: 614px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Offers/Main */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 30px;
+gap: 30px;
+
+width: 871px;
+height: 614px;
+
+/* Grey */
+background: #F2F2F2;
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Marseille Accommodation */
+
+width: 811px;
+height: 26px;
+
+/* Title/Section */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 15 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+width: 811px;
+height: 207.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card/Main */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 15px;
+gap: 4px;
+
+width: 250.33px;
+height: 207.25px;
+
+background: #FFFFFF;
+/* Shadow/Card */
+box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+width: 250.33px;
+height: 124px;
+
+background: url(fred-kleber-gTbaxaVLvsg-unsplash.jpg);
+/* White */
+border: 5px solid #FFFFFF;
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 15px;
+gap: 8px;
+
+width: 250.33px;
+height: 64.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Hôtel du port */
+
+width: 220.33px;
+height: 19px;
+
+/* Card/Title */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Nuit à partir de 52€ */
+
+width: 220.33px;
+height: 16px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Stars */
+
+width: 81px;
+height: 13.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 15px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 31.68px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 48.35px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 65.03px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 81.71px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Grey */
+background: #F2F2F2;
+
+
+/* Card/Main */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 15px;
+gap: 4px;
+
+width: 250.33px;
+height: 207.25px;
+
+background: #FFFFFF;
+/* Shadow/Card */
+box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+width: 250.33px;
+height: 124px;
+
+background: url(febrian-zakaria-M6S1WvfW68A-unsplash.jpg);
+/* White */
+border: 5px solid #FFFFFF;
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 15px;
+gap: 8px;
+
+width: 250.33px;
+height: 64.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Hôtel chez Amina */
+
+width: 220.33px;
+height: 19px;
+
+/* Card/Title */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Nuit à partir de 96€ */
+
+width: 220.33px;
+height: 16px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Stars */
+
+width: 81px;
+height: 13.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 15px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 31.68px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 48.35px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 65.03px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 81.71px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Grey */
+background: #F2F2F2;
+
+
+/* Card/Main */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 15px;
+gap: 4px;
+
+width: 250.33px;
+height: 207.25px;
+
+background: #FFFFFF;
+/* Shadow/Card */
+box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+width: 250.33px;
+height: 124px;
+
+background: url(reisetopia-B8WIgxA_PFU-unsplash.jpg);
+/* White */
+border: 5px solid #FFFFFF;
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 15px;
+gap: 8px;
+
+width: 250.33px;
+height: 64.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Hôtel Les mouettes */
+
+width: 220.33px;
+height: 19px;
+
+/* Card/Title */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Nuit à partir de 76€ */
+
+width: 220.33px;
+height: 16px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Stars */
+
+width: 81px;
+height: 13.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 15px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 31.68px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 48.35px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 65.03px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 81.71px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Grey */
+background: #F2F2F2;
+
+
+/* Column 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+width: 811px;
+height: 207.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card/Main */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 15px;
+gap: 4px;
+
+width: 250.33px;
+height: 207.25px;
+
+background: #FFFFFF;
+/* Shadow/Card */
+box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+width: 250.33px;
+height: 124px;
+
+background: url(annie-spratt-Eg1qcIitAuA-unsplash.jpg);
+/* White */
+border: 5px solid #FFFFFF;
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 15px;
+gap: 8px;
+
+width: 250.33px;
+height: 64.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Hôtel de la mer */
+
+width: 220.33px;
+height: 19px;
+
+/* Card/Title */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Nuit à partir de 46€ */
+
+width: 220.33px;
+height: 16px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Stars */
+
+width: 81px;
+height: 13.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 15px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 31.68px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 48.35px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 65.03px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 81.71px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Grey */
+background: #F2F2F2;
+
+
+/* Card/Main */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 15px;
+gap: 4px;
+
+width: 250.33px;
+height: 207.25px;
+
+background: #FFFFFF;
+/* Shadow/Card */
+box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+width: 250.33px;
+height: 124px;
+
+background: url(marcus-loke-WQJvWU_HZFo-unsplash.jpg);
+/* White */
+border: 5px solid #FFFFFF;
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 15px;
+gap: 8px;
+
+width: 250.33px;
+height: 64.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Auberge La Canebière */
+
+width: 220.33px;
+height: 19px;
+
+/* Card/Title */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Nuit à partir de 25€ */
+
+width: 220.33px;
+height: 16px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Stars */
+
+width: 81px;
+height: 13.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 15px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 31.68px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 48.35px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 65.03px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 81.71px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Grey */
+background: #F2F2F2;
+
+
+/* Card/Main */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 0px 15px;
+gap: 4px;
+
+width: 250.33px;
+height: 207.25px;
+
+background: #FFFFFF;
+/* Shadow/Card */
+box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+width: 250.33px;
+height: 124px;
+
+background: url(nicate-lee-kT-ZyaiwBe0-unsplash.jpg);
+/* White */
+border: 5px solid #FFFFFF;
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 15px;
+gap: 8px;
+
+width: 250.33px;
+height: 64.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Auberge Le Panier */
+
+width: 220.33px;
+height: 19px;
+
+/* Card/Title */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Nuit à partir de 23€ */
+
+width: 220.33px;
+height: 16px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Stars */
+
+width: 81px;
+height: 13.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 15px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 31.68px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 48.35px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 65.03px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+width: 14.29px;
+height: 13.25px;
+left: 81.71px;
+top: calc(50% - 13.25px/2 + 25.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Grey */
+background: #F2F2F2;
+
+
+/* Show more */
+
+width: 811px;
+height: 21px;
+
+/* Title/Filter */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Offers/Sponsored */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 30px;
+gap: 30px;
+
+width: 429px;
+height: 614px;
+
+/* Grey */
+background: #F2F2F2;
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Titre */
+
+width: 369px;
+height: 26px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 18px;
+height: 15.75px;
+right: -0.13px;
+top: calc(50% - 15.75px/2 - 0.12px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Most Popular */
+
+position: absolute;
+width: 300.31px;
+height: 26px;
+left: 0px;
+top: 0px;
+
+/* Title/Section */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+width: 369px;
+height: 498px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card/Desktop */
+
+width: 369px;
+height: 146px;
+
+background: #FFFFFF;
+/* Shadow/Card */
+box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px 5px 5px 15px;
+gap: 24px;
+
+position: absolute;
+left: 33.33%;
+right: 0%;
+top: 5px;
+bottom: 5px;
+
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+width: 226px;
+height: 85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* La Canebière Inn */
+
+width: 226px;
+height: 19px;
+
+/* Card/Title */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Starting at $25/night */
+
+width: 226px;
+height: 16px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Stars */
+
+width: 68px;
+height: 12px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 15px;
+right: 219px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 29px;
+right: 205px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 43px;
+right: 191px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 57px;
+right: 177px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 71px;
+right: 163px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Grey */
+background: #F2F2F2;
+
+
+/* Rectangle 24 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 66.67%;
+top: 0px;
+bottom: 0px;
+
+background: url(emile-guillemot-Bj_rcSC5XfE-unsplash.jpg);
+/* White */
+border-width: 5px 0px 5px 5px;
+border-style: solid;
+border-color: #FFFFFF;
+border-radius: 20px 0px 0px 20px;
+
+
+/* Card/Desktop */
+
+width: 369px;
+height: 146px;
+
+background: #FFFFFF;
+/* Shadow/Card */
+box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px 5px 5px 15px;
+gap: 24px;
+
+position: absolute;
+left: 33.33%;
+right: 0%;
+top: 5px;
+bottom: 5px;
+
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+width: 226px;
+height: 85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Au cœur de l’eau Chambres d’hôtes */
+
+width: 226px;
+height: 38px;
+
+/* Card/Title */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Nuit à partir de 71€ */
+
+width: 226px;
+height: 16px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Stars */
+
+width: 68px;
+height: 12px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 15px;
+right: 219px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 29px;
+right: 205px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 43px;
+right: 191px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 57px;
+right: 177px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 71px;
+right: 163px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Grey */
+background: #F2F2F2;
+
+
+/* Rectangle 24 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 66.67%;
+top: 0px;
+bottom: 0px;
+
+background: url(aw-creative-VGs8z60yT2c-unsplash.jpg);
+/* White */
+border-width: 5px 0px 5px 5px;
+border-style: solid;
+border-color: #FFFFFF;
+border-radius: 20px 0px 0px 20px;
+
+
+/* Card/Desktop */
+
+width: 369px;
+height: 146px;
+
+background: #FFFFFF;
+/* Shadow/Card */
+box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px 5px 5px 15px;
+gap: 24px;
+
+position: absolute;
+left: 33.33%;
+right: 0%;
+top: 5px;
+bottom: 5px;
+
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+width: 226px;
+height: 85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Hôtel Tout bleu et Blanc */
+
+width: 226px;
+height: 19px;
+
+/* Card/Title */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Nuit à partir de 68€ */
+
+width: 226px;
+height: 32px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Stars */
+
+width: 68px;
+height: 12px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 15px;
+right: 219px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 29px;
+right: 205px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 43px;
+right: 191px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 57px;
+right: 177px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Blue */
+background: #0065FC;
+
+
+/* Icon */
+
+position: absolute;
+height: 12px;
+left: 71px;
+right: 163px;
+bottom: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Grey */
+background: #F2F2F2;
+
+
+/* Rectangle 24 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 66.67%;
+top: 0px;
+bottom: 0px;
+
+background: url(febrian-zakaria-sjvU0THccQA-unsplash.jpg);
+/* White */
+border-width: 5px 0px 5px 5px;
+border-style: solid;
+border-color: #FFFFFF;
+border-radius: 20px 0px 0px 20px;
+
+
+/* Section Activités */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 30px;
+gap: 30px;
+
+width: 1340px;
+height: 559.02px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Things to Do in Marseille */
+
+width: 1280px;
+height: 30.02px;
+
+/* Title/Section */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 26px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+width: 1280px;
+height: 439px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 297.5px;
+height: 439px;
+
+/* Shadow/Card */
+filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Rectangle 27 */
+
+width: 297.5px;
+height: 380px;
+
+background: url(reno-laithienne.jpg);
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 20px 19px;
+gap: 10px;
+
+width: 297.5px;
+height: 59px;
+
+/* White */
+background: #FFFFFF;
+border-radius: 0px 0px 20px 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Vieux Port */
+
+width: 259.5px;
+height: 19px;
+
+/* Card/Title */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 297.5px;
+height: 439px;
+
+background: url(paul-hermann-QFTrLdQIRhI-unsplash.jpg);
+/* Shadow/Card */
+filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Rectangle 27 */
+
+width: 297.5px;
+height: 380px;
+
+background: url(paul-hermann-QFTrLdQIRhI-unsplash.jpg);
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 20px 19px;
+gap: 10px;
+
+width: 297.5px;
+height: 59px;
+
+/* White */
+background: #FFFFFF;
+border-radius: 0px 0px 20px 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Fort de Pomègues */
+
+width: 259.5px;
+height: 19px;
+
+/* Card/Title */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 297.5px;
+height: 439px;
+
+background: url(kilyan-sockalingum-NR8-cBCN3aI-unsplash.jpg);
+/* Shadow/Card */
+filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Rectangle 27 */
+
+width: 297.5px;
+height: 380px;
+
+background: url(kilyan-sockalingum.jpg);
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 20px 19px;
+gap: 10px;
+
+width: 297.5px;
+height: 59px;
+
+/* White */
+background: #FFFFFF;
+border-radius: 0px 0px 20px 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Parc National des Calanques */
+
+width: 259.5px;
+height: 19px;
+
+/* Card/Title */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 297.5px;
+height: 439px;
+
+background: url(florian-wehde-xW9e8gdotxI-unsplash.jpg);
+/* Shadow/Card */
+filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 1;
+
+
+/* Rectangle 27 */
+
+width: 297.5px;
+height: 380px;
+
+background: url(florian-wehde.jpg);
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 20px 19px;
+gap: 10px;
+
+width: 297.5px;
+height: 59px;
+
+/* White */
+background: #FFFFFF;
+border-radius: 0px 0px 20px 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Notre-Dame-de-la-Garde */
+
+width: 259.5px;
+height: 19px;
+
+/* Card/Title */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 1340px;
+height: 163px;
+
+/* Grey */
+background: #F2F2F2;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* A propos */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 20px;
+gap: 15px;
+
+width: 446.67px;
+height: 163px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* À propos */
+
+width: 53px;
+height: 21px;
+
+/* Title/Filter */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Fonctionnement du site */
+
+width: 135px;
+height: 19px;
+
+/* Footer/Link */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Conditions générales */
+
+width: 161px;
+height: 19px;
+
+/* Footer/Link */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Données et confidentialité */
+
+width: 124px;
+height: 19px;
+
+/* Footer/Link */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Nos hébergements */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 20px;
+gap: 15px;
+
+width: 446.67px;
+height: 163px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Nos hébergements */
+
+width: 178px;
+height: 21px;
+
+/* Title/Filter */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Charte qualité */
+
+width: 147px;
+height: 19px;
+
+/* Footer/Link */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Proposer votre hôtel */
+
+width: 112px;
+height: 19px;
+
+/* Footer/Link */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Assistance */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 20px;
+gap: 15px;
+
+width: 446.67px;
+height: 163px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Assistance */
+
+width: 70px;
+height: 21px;
+
+/* Title/Filter */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Centre d’aide */
+
+width: 90px;
+height: 19px;
+
+/* Footer/Link */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Nous contacter */
+
+width: 82px;
+height: 19px;
+
+/* Footer/Link */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;

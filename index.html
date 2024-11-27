@@ -16,11 +16,133 @@
 
 <body>
     <div class="main-container">
-        <header></header>
+        <header class="header">
+            <img id="logo" src="images/logo/Booki.png" alt="Booki logo">
+            <ul class="link">
+                <li><a href="#">Accommodation</a></li>
+                <li><a href="#">Things to Do</a></li>
+            </ul>
+            
+        </header>
+        
         <main>
-            <div class="accommodation-and-popular">
+            <h3>Find a place to stay for your dream vacation</h3>
+            <p><strong>the heart of the city or surrounded by the nature.</strong></p>
+                <form class="search-form" action="/search" method="GET">
+                    <label class="map-icon" for="search"><i class="fa-solid fa-location-dot"></i></label>
+                    <input type="search" id="search" name="q" placeholder="Marseille, France"> 
+                    <button class="submit">Search</button>
+                    </form>
+                    
+                <div class="filters">
+                    <h3>Filters</h3>
+                    <button class="filter-active">
+                        <div class="icon"><i class="fa-solid fa-money-bill-1-wave"></i></div>
+                        <div><b>Budget</b></div>
+                    </button>
+                    <button class="filter-active">
+                       <div class="icon"> <i class="fa-solid fa-person"></i></div>
+                       <div><b>Family-Friendly</b></div>
+                    </button>
+                    <button class="filter-active">
+                        <div class="icon"><i class="fa-solid fa-heart"></i></div>
+                        <div><b>Romantic</b></div>
+                    </button>
+                    <button class="filter-active">
+                        <div class="icon"><i class="fa-solid fa-fire"></i></div>
+                        <div><b>Our Top Picks</b></div>
+                    </button>
+                </div>   
+                <div class="info"><p><i class="fa-solid fa-circle-info"></i> There over 500 available places to stay in the city </p>
+                </div> 
+                <div class="accommodation-and-popular">
                 <section class="accommodation">
-
+                    <h2 class="section-box">Marseille Accomodation</h2>
+                    <div class="accommodation-card">
+                    <div class="row-1">
+                            <article class="box">
+                                <img src="images/accommodation/fred-kleber.jpg" alt="The Port Hotel">
+                                <h2>The Port Hotel</h2>
+                                <p>Starting at 52$ per Night</p>
+                                <div class="card-rating">
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-regular fa-star" aria-hidden="true"></i>
+                                    <span class="sr-only">Rated 4 out of 5</span>
+                                </div>
+                            </article>
+                            <article class="box">
+                                <img src="images/accommodation/febrian-zakaria.jpg" alt="Amina's Hotel">
+                                <h2>The Port Hotel</h2>
+                                <p>Starting at 96$ per Night</p>
+                                <div class="card-rating">
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-regular fa-star" aria-hidden="true"></i>
+                                    <span class="sr-only">Rated 4 out of 5</span>
+                                </div>
+                            </article>
+                            <article class="box">
+                                <img src="images/accommodation/reisetopia.jpg" alt="Seagulls Hotel">
+                                <h2>The Port Hotel</h2>
+                                <p>Starting at 76$ per Night</p>
+                                <div class="card-rating">
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-regular fa-star" aria-hidden="true"></i>
+                                    <span class="sr-only">Rated 4 out of 5</span>
+                                </div>
+                            </article>
+                    </div>
+                    <div class="row-2">                                         
+                            <article class="box">
+                                <img src="images/accommodation/annie-spratt.jpg" alt="Hotel of The Sea">
+                                <h2>The Port Hotel</h2>
+                                <p>Starting at 46$ per Night</p>
+                                <div class="card-rating">
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-regular fa-star" aria-hidden="true"></i>
+                                    <span class="sr-only">Rated 4 out of 5</span>
+                                </div>
+                            </article>
+                            <article class="box">
+                                <img src="images/accommodation/marcus-loke.jpg" alt="La Canibiere Inn">
+                                <h2>The Port Hotel</h2>
+                                <p>Starting at 25$ per Night</p>
+                                <div class="card-rating">
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-regular fa-star" aria-hidden="true"></i>
+                                    <span class="sr-only">Rated 4 out of 5</span>
+                                </div>
+                            </article>
+                            <article class="box">
+                                <img src="images/accommodation/nicate-lee.jpg" alt="The Basket Inn">
+                                <h2>The Port Hotel</h2>
+                                <p>Starting at 23$ per Night</p>
+                                <div class="card-rating">
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-solid fa-star" aria-hidden="true"></i>
+                                    <i class="fa-xs fa-regular fa-star" aria-hidden="true"></i>
+                                    <span class="sr-only">Rated 4 out of 5</span>
+                                </div>
+                            </article>
+                    </div>     
+                    <h3>Show more</h3>
+                    </div>
                 </section>
                 <section class="popular">
                     <div class="popular-title">
@@ -82,8 +204,52 @@
                     </div>
                 </section>
             </div>
+            <div class="last-box">
+                <h2 class="section-box">Things to do in Marseille</h2>
+            <section class="things-to-do">
+                    <div class="boxing">
+                    <img class="box1" src="./images/Things_to-do-in-Marsielle/The Old Port.jpg" alt="The old port">
+                    <h3 class="section-box">The Old Port</h3>
+                    </div>
+                <div class="boxing">
+                    <img class="box1" src="./images/Things_to-do-in-Marsielle/Fort of Pomegues.jpg" alt="Fort of Pomegus">
+                    <h3 class="section-box">Fort of Pomegus</h3>
+                </div>
+                <div class="boxing">
+                    <img class="box1" src="./images/Things_to-do-in-Marsielle/Calanquex National Park.jpg" alt="Canalques National Park">
+                    <h3 class="section-box">Canalques National Park</h3>
+                </div>
+                <div class="boxing">
+                    <img class="box1" src="./images/Things_to-do-in-Marsielle/Notre-Dame de la Garde.jpg" alt="Notre Dame De la Grade">
+                    <h3 class="section-box">Notre Dame De la Grade</h3>
+                </div>
+            </section>
+            </div>
         </main>
-        <footer></footer>
+        <footer class="footer-row">
+            <div>
+                <ul>
+                  <li><h3>About</h3></li>
+                  <li>Using the website</li>
+                  <li>Terms and conditions</li>
+                  <li>Data and privacy</li>
+                </ul>
+              </div>
+              <div>
+                <ul>
+                  <li><h3>Our Accommodation</h3></li>
+                  <li>Our quality promise</li>
+                  <li>Add your place</li>
+                </ul>
+              </div>
+              <div>
+                <ul>
+                  <li><h3>Support</h3></li>
+                  <li>Help center</li>
+                  <li>Contact us</li>
+                </ul>
+              </div>
+</footer>
     </div>
 </body>
 
